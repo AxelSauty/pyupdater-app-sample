@@ -4,7 +4,7 @@
 <ul>
 	<li>pyupdater keys -c</li>
 	<li>pyupdater init</li>
-	<li>pyupdater keys -i</li>pyupdater settings --plugin
+	<li>pyupdater keys -i</li>
 	<li>pyupdater settings --plugin scp</li>
 </ul>
 
